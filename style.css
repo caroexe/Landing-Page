@@ -211,3 +211,21 @@ a {
 #call-to-action-button {
     border: 0.15rem solid white;
 }
+
+/* Footer Section*/
+
+.footer {
+    background-color: #1F2937;
+
+    display: flex;
+    justify-content: space-around;
+    gap: 300px;
+    width: 100%;
+    padding: 30px;
+}
+
+.footer>p {
+    color:#F9FAF8;
+    font-size: 14px;
+    font-weight: 500;
+}
